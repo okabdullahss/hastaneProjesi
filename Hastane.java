@@ -5,5 +5,9 @@ public class Hastane {
         System.out.println("hello world");
         System.out.println("hello world");
         System.out.println("hello world");
+        System.out.println("hello world");
+        System.out.println("hello world");
+        System.out.println("hello world");
+        System.out.println("hello world");
     }
 }
