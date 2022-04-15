@@ -1,5 +1,6 @@
 package projects.hastaneDeneme;
 
+
 import Projects.P08_HastaneOtomasyon_.Doktor;
 import Projects.P08_HastaneOtomasyon_.Durum;
 import Projects.P08_HastaneOtomasyon_.Hasta;
@@ -13,7 +14,7 @@ public class Hastane extends VeriBankasi {
 
     public Durum getDurum() {
         return durum;
-    }
+
 
     public void setDurum(Durum durum) {
         this.durum = durum;
