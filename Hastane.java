@@ -38,4 +38,5 @@ public class Hastane extends VeriBankasi {
         this.hasta = hasta;
     }
 
+
 }
