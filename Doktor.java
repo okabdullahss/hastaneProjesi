@@ -1,4 +1,5 @@
-package Hastane_Projesi;
+package projects.hastaneDeneme;
+
 
 public class Doktor {
     private String isim;
@@ -11,11 +12,11 @@ public class Doktor {
 
     @Override
     public String toString() {
-        return "Doktor{" +
+        return "Doktor Bilgileri: " +
                 "isim='" + isim + '\'' +
                 ", soyIsim='" + soyIsim + '\'' +
-                ", unvan='" + unvan + '\'' +
-                '}';
+                ", unvan='" + unvan + '\''
+                ;
     }
 
     public String getIsim() {

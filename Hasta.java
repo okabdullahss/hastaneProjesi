@@ -1,6 +1,6 @@
 package projects.hastaneDeneme;
 
-public class Hasta {
+public class Hasta<String> {
     private String isim;
     private String soyIsim;
     private int hastaID;
